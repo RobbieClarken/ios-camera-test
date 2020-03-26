@@ -1,11 +1,3 @@
-//
-//  ContentView.swift
-//  Snap
-//
-//  Created by Robbie Clarken on 26/3/20.
-//  Copyright © 2020 Robbie Clarken. All rights reserved.
-//
-
 import SwiftUI
 
 struct ContentView: View {
